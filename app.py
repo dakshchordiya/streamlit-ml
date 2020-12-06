@@ -4,7 +4,9 @@ import numpy as np
 
 
 from sklearn.svm import SVC
+
 from sklearn.linear_model import LogisticRegression
+
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.neighbors import KNeighborsClassifier  
 from sklearn.svm import LinearSVC
